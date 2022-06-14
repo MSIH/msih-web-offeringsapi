@@ -8,6 +8,7 @@ Database of business offerings (goods and services)
 - Description
 - OfferingID
 - Collection of OfferingID
+- UserID
 
 ## Offering
 - OfferingID
@@ -15,3 +16,7 @@ Database of business offerings (goods and services)
 - Description
 - CategoryID
 - Collection of CategoryID
+- UserID
+
+## User
+- UserID
